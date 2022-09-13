@@ -1,5 +1,5 @@
 # Speller
-Spell checking application built in C, This is an implementation of [Problem Set 5](https://cs50.harvard.edu/college/2019/fall/weeks/5/) from the Fall 2019 version 
+This is a spell-checking application built in C, which is an implementation of [Problem Set 5](https://cs50.harvard.edu/college/2019/fall/weeks/5/) from the Fall 2019 version 
 of CS50's Introduction to Computer Programming course, and it recieved a passing grade. 
 
 # How to run this application
