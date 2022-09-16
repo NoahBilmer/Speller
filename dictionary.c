@@ -15,7 +15,7 @@ typedef struct node
     struct node *next;
 } node;
 
-// Number of memory addresses possible in the hash table
+// Number of linked lists in the hash table
 const unsigned int N = 100000;
 
 long int word_count = 0;
