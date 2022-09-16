@@ -43,10 +43,10 @@ bool check(const char *word)
     {
         return false;
     }
-
+    // trav = next node in the list, then check if trav = null, 
     for (node *trav = table[index]; trav != NULL; trav = trav->next)
     {
-
+        // Compare the current word to the word at this part of the linked list.
         int result = strcasecmp(trav->word, current_word);
         if (result == 0)
         {
