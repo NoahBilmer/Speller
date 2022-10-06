@@ -1,6 +1,7 @@
 # Speller
 This is a spell-checking application built in C, which is an implementation of [Problem Set 5](https://cs50.harvard.edu/college/2019/fall/weeks/5/) from the Fall 2019 version 
-of CS50's Introduction to Computer Programming course, and it recieved a passing grade. *The only part of the code that I personally wrote is in speller.c, the rest is provided by CS50.*
+of CS50's Introduction to Computer Programming course, and it recieved a passing grade. 
+ASIDE: *The only part of the code that I personally wrote is in `dictonary.c`, the rest was provided by CS50.*
 
 # How to run this application
 ### Linux
