@@ -1,3 +1,6 @@
+/*PROVIDED CURTOSIY OF CS50, NOT MY IMPLEMENTATION
+Read: https://cs50.harvard.edu/college/2019/fall/weeks/5/
+*/
 // Implements a spell-checker
 
 #include <ctype.h>
